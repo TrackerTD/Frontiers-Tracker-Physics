@@ -1,4 +1,4 @@
-# Frontiers-Tracker-Physics
+# Tracker Physics for Sonic Frontiers
 
 ![Sonic overlooking a cliff, with 'TRACKER PHYSICS' written above him](https://i.imgur.com/5rnFdAM.jpg)
 
