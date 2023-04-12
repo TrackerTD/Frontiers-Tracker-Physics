@@ -1,1 +1,5 @@
 add mod.ini
+add \hyperfighting\raw\character\playercommon.pac
+add \nofighting\raw\character\playercommon.pac
+add \hyperfighting\raw\enemy\enemycommon.pac
+add \hyperfighting\raw\enemy\twister01.pac
