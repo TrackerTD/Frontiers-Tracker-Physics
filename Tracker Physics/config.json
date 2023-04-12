@@ -1,0 +1,41 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Tracker Physics",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Hyper Fighting Mode",
+               "Description": [
+                  "Enable or Disable Hyper Fighting Mode. Hyper Fighting massively increases the speed of Sonic's attacks and slightly weakens him."
+               ],
+               "Type": "TrackerPhysicsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "withlightning"
+            
+            }
+         ]
+      }
+   ],
+   "Enums": {
+		"TrackerPhysicsEnum": [
+         {
+            "DisplayName": "Regular Fighting",
+            "Value": "nofighting",
+            "Description": [
+               "Hyper Fighting Mode is disabled."
+            ]
+         },
+	 {
+            "DisplayName": "Hyper Fighting",
+            "Value": "hyperfighting",
+            "Description": [
+               "Hyper Fighting Mode is enabled."
+            ]
+         },	 
+      ]
+   },
+   "IniFile": "mod.ini"
+}
