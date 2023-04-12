@@ -1,6 +1,6 @@
 # Frontiers-Tracker-Physics
 
-!(https://i.imgur.com/5rnFdAM.jpg)
+![Sonic overlooking a cliff, with 'TRACKER PHYSICS' written above him](https://i.imgur.com/5rnFdAM.jpg)
 
 The 'Tracker Tweaks' name comes to yet another game... and this time, it's Sonic Frontiers' turn.
 
