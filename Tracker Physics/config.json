@@ -13,7 +13,7 @@
                "Type": "TrackerPhysicsEnum",
                "MinValue": null,
                "MaxValue": null,
-               "DefaultValue": "withlightning"
+               "DefaultValue": "nofighting"
             
             }
          ]
