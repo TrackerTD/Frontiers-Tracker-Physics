@@ -1,5 +1,7 @@
 # Frontiers-Tracker-Physics
 
+!(https://i.imgur.com/5rnFdAM.jpg)
+
 The 'Tracker Tweaks' name comes to yet another game... and this time, it's Sonic Frontiers' turn.
 
 I like Frontiers! But the controls do bug a little sometimes - the fact Sonic's 06-levels of slow without boosting, the massive airbrake, the drop dash feeling a little unwieldly and uncurling constantly... and of course, the cyberspace levels are just bad. I tinkered with a few physics mods already uploaded here, and while they're really nicely made I couldn't land on one that totally clicked with me. That, and you usually have to disable them for the Squid chase on Chaos Island.
