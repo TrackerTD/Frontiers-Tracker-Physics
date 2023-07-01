@@ -1,3 +1,6 @@
+##Tracker Physics 1.7.1 
+- Silent update to try and fix update server issues.
+
 ## Tracker Physics 1.7
 - Added preliminary support for Update 2 of Sonic Frontiers.
 
