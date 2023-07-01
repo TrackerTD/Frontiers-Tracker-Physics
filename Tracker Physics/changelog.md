@@ -1,3 +1,8 @@
+## Tracker Physics Notice
+
+- I managed to completely break the mod's auto-updater, because I'm smart.
+- Please redownload the mod from GameBanana: https://gamebanana.com/mods/415617
+
 ## Tracker Physics 1.7.1 
 - Silent update to try and fix update server issues.
 
