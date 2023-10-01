@@ -1,3 +1,6 @@
+## Tracker Physics 1.8.1
+- Made adjustments to Amy, Knuckles and Tails - namely more slope influence on speed, and gliding/flying startup time reductions.
+
 ## Tracker Physics 1.8
 - Added preliminary support for Update 3 of Sonic Frontiers. 
 - Many nerfs from Hyper Fighting have been undone to make Final Horizon actually possible. I will continue to rebalance this. 
