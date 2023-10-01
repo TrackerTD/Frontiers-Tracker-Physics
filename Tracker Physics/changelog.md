@@ -1,3 +1,8 @@
+## Tracker Physics 1.8
+- Added preliminary support for Update 3 of Sonic Frontiers. 
+- Many nerfs from Hyper Fighting have been undone to make Final Horizon actually possible. I will continue to rebalance this. 
+- This update may not install correctly via HMM. If Sonic's behaving strangely after updating, reinstall the mod from GameBanana.
+
 ## Tracker Physics 1.7
 - Added preliminary support for Update 2 of Sonic Frontiers.
 - This update may not install correctly via HMM. If Sonic's behaving strangely after updating, reinstall the mod from GameBanana.
