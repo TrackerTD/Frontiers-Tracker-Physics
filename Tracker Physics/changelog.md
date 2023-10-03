@@ -1,3 +1,6 @@
+## Tracker Physics 1.8.2
+- Reduced Knuckles' climbing speed considerably, and slightly weakened Sonic's. 
+
 ## Tracker Physics 1.8.1
 - Made adjustments to Amy, Knuckles and Tails - namely more slope influence on speed, and gliding/flying startup time reductions.
 
