@@ -1,3 +1,2 @@
 add hyperfighting/raw/character/playercommon.pac
-add nofighting/raw/character/playercommon.pac
 add mod.ini
