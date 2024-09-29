@@ -1,3 +1,6 @@
+## Tracker Physics 1.9.1
+- Reverted Super Sonic's homing shot changes in Hyper Fighting to vanilla, to fix them regularly missing.
+
 ## Tracker Physics 1.9
 - 1.4.1 support.
 - Replaces Knuckles' gliding values with his new ones from 1.4.1.
