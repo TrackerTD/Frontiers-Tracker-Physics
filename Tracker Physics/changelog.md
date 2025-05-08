@@ -1,4 +1,4 @@
-## Tracker Physics 1.9.2
+## Tracker Physics 1.9.2.2
 - Adjusted Sonic's grind rail physics in Cyber Space, because they were weirdly slow.
 - FINALLY overhauled the bloody airboost so it's less shit. 
 
