@@ -13,7 +13,7 @@
                "Type": "TrackerPhysicsEnum",
                "MinValue": null,
                "MaxValue": null,
-               "DefaultValue": "nofighting"
+               "DefaultValue": "hyperfighting"
             
             }
          ]
@@ -22,10 +22,10 @@
    "Enums": {
 		"TrackerPhysicsEnum": [
          {
-            "DisplayName": "Regular Fighting",
+            "DisplayName": "Regular Fighting (Deprecated)",
             "Value": "nofighting",
             "Description": [
-               "Hyper Fighting Mode is disabled."
+               "Hyper Fighting Mode is disabled. No longer supported, expect lack of polish."
             ]
          },
 	 {
