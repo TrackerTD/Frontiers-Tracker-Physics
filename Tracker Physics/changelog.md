@@ -1,3 +1,7 @@
+## Tracker Physics 1.9.2
+- Adjusted Sonic's grind rail physics in Cyber Space, because they were weirdly slow.
+- FINALLY overhauled the bloody airboost so it's less shit. 
+
 ## Tracker Physics 1.9.1
 - Reverted Super Sonic's homing shot changes in Hyper Fighting to vanilla, to fix them regularly missing.
 
